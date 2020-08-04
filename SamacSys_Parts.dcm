@@ -18,4 +18,10 @@ K
 F http://www.st.com/web/en/resource/technical/document/datasheet/CD00001322.pdf
 $ENDCMP
 #
+$CMP STM32WB55RGV6
+D ARM Microcontrollers - MCU Ultra-low-power dual core Arm Cortex-M4 MCU 64 MHz, Cortex-M0 32MHz with 1 Mbyte Flash, BLE, 802.15.4, USB, LCD, AES-256
+K
+F https://www.st.com/resource/en/datasheet/stm32wb55rg.pdf
+$ENDCMP
+#
 #End Doc Library
