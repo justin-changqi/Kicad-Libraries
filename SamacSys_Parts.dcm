@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP STM32WB55CGU6
+D ARM Microcontrollers - MCU Ultra-low-power dual core Arm Cortex-M4 MCU 64 MHz, Cortex-M0 32MHz with 1 Mbyte Flash, BLE, 802.15.4, USB, LCD, AES-256
+K
+F https://www.st.com/en/microcontrollers/stm32wb55cg.html
+$ENDCMP
+#
+$CMP BAT54KFILM
+D BAT54KFILM, Schottky Diode,  0.3A max, 40V 5ns, 2-Pin, SOD-523
+K
+F http://www.st.com/web/en/resource/technical/document/datasheet/CD00001322.pdf
+$ENDCMP
+#
+#End Doc Library
