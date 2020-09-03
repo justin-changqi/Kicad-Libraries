@@ -24,4 +24,10 @@ K
 F https://www.st.com/resource/en/datasheet/stm32wb55rg.pdf
 $ENDCMP
 #
+$CMP TXB0108PWR
+D 8-Bit Bidirectional Voltage-Level Shifter with Auto Direction Sensing and +/-15-kV ESD Protect
+K
+F http://www.ti.com/lit/ds/symlink/txb0108.pdf
+$ENDCMP
+#
 #End Doc Library
